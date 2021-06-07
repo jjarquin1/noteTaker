@@ -1,2 +1,2 @@
 # noteTaker
-A place to take and delete notes. 
+A place to take and delete notes
