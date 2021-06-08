@@ -27,7 +27,7 @@
   Jose Jarquin
  
   # Tests
-  No tests have been developed for this application.
+ Test the methods and endpoints of this application through insomnia. 
   
   ## Questions
   for inquiries reach out through Github or Email.
